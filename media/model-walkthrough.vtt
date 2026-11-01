@@ -1,0 +1,25 @@
+WEBVTT
+
+00:00.000 --> 00:14.000 line:10%
+A physical model demonstrates the front controller
+and the wireless rear-light unit.
+
+00:14.000 --> 00:35.000 line:10%
+Normal illumination changes between riding and parking.
+The riding pattern combines red light and two green LEDs.
+
+00:35.000 --> 00:49.000 line:10%
+A and B operate the left and right turn signals.
+The turning side uses an amber light sequence.
+
+00:49.000 --> 01:00.000 line:10%
+SOS provides a local light-and-sound alarm.
+It does not send a remote rescue message.
+
+01:00.000 --> 01:22.000 line:10%
+Acceleration changes support braking alerts.
+Detection performance still requires physical testing.
+
+01:22.000 --> 01:40.287 line:10%
+This is a working prototype.
+Formal accuracy and battery-runtime measurements are pending.

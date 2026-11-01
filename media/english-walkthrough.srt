@@ -1,0 +1,89 @@
+1
+00:00:00,700 --> 00:00:04,000
+This is my smart bicycle tail light system.
+
+2
+00:00:04,100 --> 00:00:09,800
+The tail light stays on as I move the model forward or
+backward.
+
+3
+00:00:10,000 --> 00:00:14,900
+This is the front controller, and this is the rear light.
+
+4
+00:00:15,100 --> 00:00:18,700
+They can be mounted on a real bicycle.
+
+5
+00:00:21,800 --> 00:00:25,700
+When the bicycle is stationary, all eight LEDs are red.
+
+6
+00:00:25,900 --> 00:00:29,200
+While riding, the two center LEDs turn green.
+
+7
+00:00:29,400 --> 00:00:33,700
+The sensor detects movement as I move the model.
+
+8
+00:00:34,000 --> 00:00:39,500
+The green center lights show people behind that the bicycle is
+moving.
+
+9
+00:00:40,000 --> 00:00:43,700
+When I stop, the tail light returns to red.
+
+10
+00:00:44,000 --> 00:00:47,400
+The system also has turn signals.
+
+11
+00:00:48,000 --> 00:00:51,800
+They show whether I am turning left or right.
+
+12
+00:00:52,000 --> 00:00:55,300
+It also has flashing hazard lights.
+
+13
+00:00:55,500 --> 00:00:59,000
+These warn people behind of a hazard.
+
+14
+00:01:00,000 --> 00:01:03,300
+Another feature is automatic braking detection.
+
+15
+00:01:03,600 --> 00:01:07,300
+When the sensor detects a braking movement,
+
+16
+00:01:07,600 --> 00:01:14,700
+the red lights flash and the buzzer sounds to warn people
+behind.
+
+17
+00:01:16,000 --> 00:01:18,800
+Finally, here is the emergency warning.
+
+18
+00:01:19,000 --> 00:01:24,400
+In this demonstration, tilting the model can trigger the SOS
+warning.
+
+19
+00:01:25,000 --> 00:01:29,700
+Flashing lights and an alarm alert nearby people that help is
+needed.
+
+20
+00:01:31,000 --> 00:01:35,000
+To clear SOS, hold both A and B for three seconds.
+
+21
+00:01:35,500 --> 00:01:38,800
+The emergency warning then stops.
+

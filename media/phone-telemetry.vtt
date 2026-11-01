@@ -1,0 +1,13 @@
+WEBVTT
+
+00:00.000 --> 00:08.000 line:10%
+Recorded local phone interface:
+the blue trace shows braking-related acceleration changes.
+
+00:08.000 --> 00:16.000 line:10%
+The dashed red line marks the configured trigger threshold.
+The trace changes as the recorded signal updates.
+
+00:16.000 --> 00:23.748 line:10%
+This is a live-view recording, not a measured success rate.
+Confirmed test actions are needed to evaluate performance.
