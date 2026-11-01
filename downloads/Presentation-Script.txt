@@ -1,0 +1,40 @@
+SMART BICYCLE TAIL LIGHT SYSTEM
+Short English introduction, with Traditional Chinese reference
+
+ENGLISH
+
+Hello, this is my Smart Bicycle Tail Light System.
+
+It helps cyclists show turns, braking, and emergencies more clearly.
+
+The front controller connects wirelessly to the rear light through Bluetooth.
+
+I press A to signal left, and B to signal right. Pressing both buttons activates the hazard lights.
+
+When the system detects braking, the red lights flash and the buzzer sounds.
+
+In demonstration mode, tilting the model can trigger an SOS light and sound warning.
+
+I can also adjust settings and record test data using an offline webpage on my phone.
+
+This prototype still needs further testing. Thank you!
+
+繁體中文對照
+
+大家好，這是我的智慧自行車尾燈系統。
+
+它能幫助騎士更清楚地表達轉彎、煞車和緊急狀況。
+
+車頭控制器透過藍牙，無線連接車尾燈。
+
+按 A 表示左轉，按 B 表示右轉，同時按下兩個按鈕，可以開啟雙黃警示燈。
+
+系統偵測到煞車時，紅燈會閃爍，蜂鳴器也會發出提示音。
+
+在展示模式下，傾斜模型可以觸發 SOS 聲光警示。
+
+我也能使用手機的離線網頁，調整設定並記錄測試資料。
+
+這套原型仍需要進一步測試，謝謝大家！
+
+Demonstration reminder: tilt must exceed the configured angle for the configured confirmation period. Clear SOS with a continuous three-second A+B hold.
